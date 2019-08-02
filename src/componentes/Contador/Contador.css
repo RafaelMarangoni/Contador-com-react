@@ -1,0 +1,40 @@
+.botao{
+    background-color:rgb(47, 168, 47);
+    border:none;
+    padding: 10px;
+    border-radius:3px;
+    width: 50%;
+    font-size:20px;    
+}
+.botao2{
+    background-color:rgb(236, 36, 29);
+    border:none;
+    padding: 10px;
+    border-radius:3px;
+    width: 50%;
+    font-size:20px;  
+}
+.botao3{
+    background-color:rgb(29, 50, 236);
+    border:none;
+    padding: 10px;
+    border-radius:3px;
+    width: 50%;
+    font-size:20px;  
+}
+.botao4{
+    background-color:rgb(222, 236, 29);
+    border:none;
+    padding: 10px;
+    border-radius:3px;
+    width: 50%;
+    font-size:20px;  
+}
+.botao5{
+    background-color:rgb(8, 112, 138);
+    border:none;
+    padding: 10px;
+    border-radius:3px;
+    width: 100%;
+    font-size:20px;  
+}
